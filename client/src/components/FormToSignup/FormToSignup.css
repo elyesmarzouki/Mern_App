@@ -1,0 +1,86 @@
+#name{
+    display: flex;
+    justify-content: center;
+}
+#data{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.email{
+    width: 300px;
+}
+#first{
+    margin-right: 10px;
+    width: 140px;
+}
+#last{
+    margin-left: 10px;
+    width: 140px;
+}
+input{
+    font-size: 20px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+input:hover{
+    transform: scale(1.02);
+}
+hr{
+    color: white;
+}
+.tete{
+    color: rgb(11,225,208);
+    text-align: center;
+}
+.tetee{
+    color:rgb(11,225,208);
+    text-align: center;
+    font-size: 15px;
+}
+#toS{
+    background-color: rgb(11,225,208);
+    border-radius: 5px;
+    border: 0px;
+    color: rgb(11,78,94);
+    height: 49px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+}
+#toS:hover{
+    background-color: rgb(44, 238, 222);
+    color: white;
+}
+#box2{
+    background-color: rgb(11,78,94);
+    width: 30%;
+    margin: 20px;
+    border-radius: 10px;
+}
+#box1{
+    width: 50%;
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(8, 63, 77);
+}
+#toJ{
+    color: rgb(11,225,208);
+    text-align: center;
+}
+#photo{
+    height: 200px;
+    margin-left: 35%;
+    margin-top: 85px;
+    border-radius: 10px;
+}
+#under{
+    color: white;
+    text-align: center;
+    font-family: serif;
+}

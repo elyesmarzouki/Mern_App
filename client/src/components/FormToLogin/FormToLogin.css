@@ -1,0 +1,11 @@
+h4{
+    text-align: center;
+    margin-bottom: 5px;
+    color: rgb(30,34,42);
+}
+#foto{
+    height: 200px;
+    margin-left: 35%;
+    margin-top: 60px;
+    border-radius: 10px;
+}

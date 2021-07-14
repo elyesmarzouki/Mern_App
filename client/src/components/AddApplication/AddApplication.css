@@ -1,0 +1,22 @@
+#likeo{
+    background-color: rgb(11,78,94);
+    color: rgb(11,225,208);
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 44%;
+    margin-top: 20px;
+    height: 45px;
+
+}
+#likeo:hover{
+    background-color: rgb(11,225,208);
+    color: rgb(11,78,94);
+}
+.mod{
+    display: flex;
+    justify-content: space-between;
+}
+#titit{
+    color:rgb(11,78,94);
+}

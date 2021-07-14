@@ -1,0 +1,11 @@
+.modalinput{
+    background-color: rgb(223, 223, 223);
+    width:280px;
+    height: 45px;
+}
+.modalinputx{
+    background-color: rgb(223, 223, 223);
+    width:280px;
+    height: 400px;
+    flex-wrap: wrap;
+}

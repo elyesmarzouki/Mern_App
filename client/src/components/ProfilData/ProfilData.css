@@ -1,0 +1,51 @@
+#profil{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+}
+.ddd{
+    text-align: center;
+}
+#aaa{
+    margin-top: 25px;
+}
+.dds{
+    display: flex;
+    justify-content: center;
+}
+#btnds{
+    text-align: center;
+    margin-top: 50px
+}
+#btnds:hover{
+    color: red;
+    cursor: pointer;
+}
+.tomm{
+    margin-left: 10px;
+}
+#tomm{
+    margin-top:42px;
+    margin-left: 10px;
+}
+#tomm:hover{
+    cursor:pointer;
+    color: rgb(11,225,208);
+}
+.tomm:hover{
+    cursor: pointer;
+    color: rgb(11,225,208);
+}
+#aads{
+    background-color: teal;
+}
+.eeeeds{
+    margin-bottom: 10px;
+    margin-right: 20px;
+    color: teal;
+}
+.empty{
+    color: rgb(170, 170, 170);
+}
+#bas{
+    margin-top: 85px;
+}

@@ -1,0 +1,65 @@
+#list{
+    background-color: white;
+}
+#centertitle{
+    text-align: center;
+}
+#all{
+    display: flex;
+}
+#btnsbox{
+    display: default;
+    margin-top: 35px;
+}
+.samewidth{
+    width: 300px;
+    margin: 20px;
+    background-color: rgb(11,78,94);
+    border: 0px;
+    border-radius: 5px;
+    color: rgb(11,225,208);
+    height: 45px;
+}
+.samewidth:hover{
+    color: rgb(11,78,94);
+    background-color: rgb(11,225,208);
+}
+#toremovef{
+    color: red;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid rgb(255, 0, 0);
+    height: 50px;
+    margin: 20px;
+    width: 300px;
+}
+#toremovef:hover{
+    color: white;
+    background-color: red;
+}
+#countryfil{
+    margin-left: 20px;
+    margin-right: 5px;
+    background-color: rgb(255, 255, 255);
+    height: 45px;
+}
+#searchfilter{
+    height: 46px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(11,78,94);
+    color: rgb(11,225,208);
+}
+#searchfilter:hover{
+    background-color: rgb(11,225,208);
+    color: rgb(11,78,94);
+}
+#filfil{
+    background-color: rgb(30,34,42);
+    border-radius: 5px;
+    margin: 5px;
+}
+#thelist{
+    display: flex;
+    flex-wrap: wrap;
+}
